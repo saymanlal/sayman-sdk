@@ -222,7 +222,7 @@ console.log(info);
 
 View blocks, transactions, validators and smart contracts using the official explorer.
 
-https://explorer.sayman.network
+https://sayman.onrender.com
 
 ---
 
@@ -230,7 +230,7 @@ https://explorer.sayman.network
 
 Complete documentation is available at
 
-https://docs.sayman.network
+https://sayman-docs.vercel.app
 
 ---
 
@@ -245,13 +245,13 @@ https://sayman.onrender.com/api
 Explorer
 
 ```
-https://explorer.sayman.network
+https://sayman.onrender.com
 ```
 
 Faucet
 
 ```
-https://faucet.sayman.network
+https://sayman-faucet-site.vercel.app
 ```
 
 ---
@@ -323,11 +323,11 @@ Copyright © 2026 Vizkus Groups.
 
 ## Links
 
-* Website: https://sayman.network
-* Documentation: https://docs.sayman.network
-* Explorer: https://explorer.sayman.network
-* Faucet: https://faucet.sayman.network
-* GitHub: https://github.com/VizkusGroups/sayman
+* Website: https://vizkusgroups.me
+* Documentation: https://sayman-docs.vercel.app
+* Explorer: https://sayman.onrender.com
+* Faucet: https://sayman-faucet-site.vercel.app
+* GitHub: https://github.com/saymanlal/SAYMAN
 
 ---
 

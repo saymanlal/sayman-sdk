@@ -1,17 +1,17 @@
 {
     "name": "@sayman/sdk",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Official JavaScript SDK for the SAYMAN Blockchain",
     "main": "index.js",
     "license": "MIT",
     "author": "Vizkus Groups",
-    "homepage": "https://docs.sayman.network",
+    "homepage": "https://sayman-docs.vercel.app",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/VizkusGroups/sayman.git"
+        "url": "git+https://github.com/saymanlal/sayman-sdk.git"
     },
     "bugs": {
-        "url": "https://github.com/VizkusGroups/sayman/issues"
+        "url": "https://github.com/saymanlal/sayman-sdk/issues"
     },
     "keywords": [
         "sayman",
