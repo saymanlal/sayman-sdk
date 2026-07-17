@@ -1,0 +1,32 @@
+{
+    "name": "@sayman/sdk",
+    "version": "1.0.1",
+    "description": "Official JavaScript SDK for the SAYMAN Blockchain",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "Vizkus Groups",
+    "homepage": "https://docs.sayman.network",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/VizkusGroups/sayman.git"
+    },
+    "bugs": {
+      "url": "https://github.com/VizkusGroups/sayman/issues"
+    },
+    "keywords": [
+      "sayman",
+      "blockchain",
+      "web3",
+      "sdk",
+      "wallet",
+      "smart-contracts",
+      "cryptocurrency"
+    ],
+    "files": [
+      "index.js",
+      "client.js"
+    ],
+    "engines": {
+      "node": ">=18"
+    }
+  }
